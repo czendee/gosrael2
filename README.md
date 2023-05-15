@@ -2,8 +2,8 @@
   Golang Rest API Starter
 </h1>
 
-Open gitpod with the app
-![CI](https://gitpod.io/#https://github.com/youtochibots/bot)
+
+![Open gitpod with the app](https://gitpod.io/#https://github.com/youtochibots/bot)
 
 ![CI](https://github.com/nealajpatel/golang-rest-api-starter/actions/workflows/code-ql.yaml/badge.svg?branch=main&event=push)
 ![CI](https://github.com/nealajpatel/golang-rest-api-starter/actions/workflows/pipeline.yaml/badge.svg?branch=main&event=push)
